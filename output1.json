@@ -1,0 +1,103 @@
+{
+  "venue": "Canterbury",
+  "rooms": [
+    "Bankstown",
+    "Padstow"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Canterbury",
+  "rooms": ["Bankstown"],
+  "status": "success"
+}
+{
+  "venue": "Sutherland",
+  "rooms": ["Miranda"],
+  "status": "success"
+}
+{
+  "venue": "Canterbury",
+  "rooms": [
+    "Bankstown",
+    "Padstow",
+    "Revesby"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Canterbury",
+  "rooms": ["Padstow"],
+  "status": "success"
+}
+{
+  "venue": "Canterbury",
+  "rooms": ["Revesby"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2018-03-24",
+        "end": "2018-04-01",
+        "id": "John's Birthday"
+      },
+      {
+        "start": "2019-03-25",
+        "end": "2019-04-26",
+        "id": "Parks"
+      }
+    ],
+    "room": "Bankstown"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-25",
+        "end": "2019-04-26",
+        "id": "Parks"
+      },
+      {
+        "start": "2019-10-30",
+        "end": "2019-11-01",
+        "id": "McDonald's Construction"
+      }
+    ],
+    "room": "Padstow"
+  },
+  {
+    "reservations": [{
+      "start": "2019-05-03",
+      "end": "2019-05-07",
+      "id": "Train Station"
+    }],
+    "room": "Revesby"
+  },
+  {
+    "reservations": [],
+    "room": "Narwee"
+  },
+  {
+    "reservations": [],
+    "room": "Riverwood"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "Holsworthy"
+  },
+  {
+    "reservations": [],
+    "room": "Miranda"
+  },
+  {
+    "reservations": [],
+    "room": "Cronulla"
+  }
+]
+[{
+  "reservations": [],
+  "room": "Hurstville"
+}]

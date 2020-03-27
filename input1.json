@@ -1,0 +1,19 @@
+{ "command": "room", "venue": "Canterbury", "room": "Bankstown", "size": "large" }
+{ "command": "room", "venue": "Canterbury", "room": "Padstow", "size": "small" }
+{ "command": "room", "venue": "Canterbury", "room": "Revesby", "size": "medium" }
+{ "command": "room", "venue": "Canterbury", "room": "Narwee", "size": "small" }
+{ "command": "room", "venue": "Canterbury", "room": "Riverwood", "size": "small" }
+{ "command": "room", "venue": "Sutherland", "room": "Holsworthy", "size": "small" }
+{ "command": "room", "venue": "Sutherland", "room": "Miranda", "size": "large" }
+{ "command": "room", "venue": "Sutherland", "room": "Cronulla", "size": "large" }
+{ "command": "room", "venue": "Georges River", "room": "Hurstville", "size": "medium" }
+{ "command": "request", "id": "Parks", "start": "2019-03-25", "end": "2019-04-26", "small": 1, "medium": 0, "large": 1 }
+{ "command": "request", "id": "John's Birthday", "start": "2018-03-24", "end": "2018-04-01", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Dance Party", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "change", "id": "Dance Party", "start": "2019-08-24", "end": "2019-08-29", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "McDonald's Construction", "start": "2019-10-30", "end": "2019-11-01" , "small": 1, "medium": 0, "large": 0 }
+{ "command": "cancel", "id": "Dance Party" }
+{ "command": "request", "id": "Train Station", "start": "2019-05-03", "end": "2019-05-07", "small": 0, "medium": 1, "large": 0 }
+{ "command": "list", "venue": "Canterbury" }
+{ "command": "list", "venue": "Sutherland" }
+{ "command": "list", "venue": "Georges River" }

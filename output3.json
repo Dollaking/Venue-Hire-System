@@ -1,0 +1,62 @@
+{
+  "venue": "Ionia",
+  "rooms": [
+    "Barrel",
+    "Axe"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Ionia",
+  "rooms": ["Sword"],
+  "status": "success"
+}
+{
+  "venue": "Demacia",
+  "rooms": ["Dagger"],
+  "status": "success"
+}
+{
+  "venue": "Ionia",
+  "rooms": ["Barrel"],
+  "status": "success"
+}
+{
+  "venue": "Ionia",
+  "rooms": ["Barrel"],
+  "status": "success"
+}
+{"status": "rejected"}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-04-20",
+        "end": "2019-04-21",
+        "id": "Khazix"
+      },
+      {
+        "start": "2019-04-22",
+        "end": "2019-04-24",
+        "id": "Noxus"
+      }
+    ],
+    "room": "Barrel"
+  },
+  {
+    "reservations": [],
+    "room": "Axe"
+  },
+  {
+    "reservations": [{
+      "start": "2019-04-19",
+      "end": "2019-04-25",
+      "id": "Garen"
+    }],
+    "room": "Sword"
+  }
+]
+[{
+  "reservations": [],
+  "room": "Dagger"
+}]
